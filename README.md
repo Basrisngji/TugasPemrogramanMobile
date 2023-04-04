@@ -5,7 +5,7 @@
 | **Nama**        | Basri Sangaji     |
 | **NIM**         | 312110152         |
 | **Kelas**       | TI.21.A.1         |
-| **Mata Kuliah** | Pemrograman Web 2 |
+| **Mata Kuliah** | Pemrograman Mobile|
 
 ## File Index.php
 ```
