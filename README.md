@@ -144,8 +144,8 @@ table {
   }
 ```
 ## Output
-![Gambar 1](img/1.jpg)
-![Gambar 2](img/2.jpg)
-![Gambar 3](img/3.jpg)
-![Gambar 4](img/4.jpg)
-![Gambar 5](img/5.jpg)
+![Gambar 1](img/1.png)
+![Gambar 2](img/2.png)
+![Gambar 3](img/3.png)
+![Gambar 4](img/4.png)
+![Gambar 5](img/5.png)
